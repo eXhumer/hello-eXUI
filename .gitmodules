@@ -1,0 +1,3 @@
+[submodule "libs/eXUI"]
+	path = libs/eXUI
+	url = https://github.com/eXhumer/eXUI.git

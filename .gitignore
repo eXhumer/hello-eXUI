@@ -1,0 +1,7 @@
+/.vscode/
+*.d
+*.o
+*.elf
+*.nro
+*.dksh
+*.nacp
