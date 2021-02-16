@@ -8,13 +8,13 @@ VERSION_MAJOR	:=	0
 VERSION_MINOR	:=	0
 VERSION_PATCH	:=	1
 
-APP_TITLE	:=	Hello NX
+APP_TITLE	:=	Hello eXUI
 APP_AUTHOR	:=	$(shell whoami)
 APP_VERSION	:=	$(VERSION_MAJOR).$(VERSION_MINOR).$(VERSION_PATCH)
 
 LIB_EXUI	:=	libs/eXUI
 LIB_NANOVG	:=	$(LIB_EXUI)/libs/nanovg
-TARGET		:=	hello-nx
+TARGET		:=	hello-eXUI
 SOURCES     :=	source
 SHADERS		:=	$(LIB_NANOVG)/shaders
 INCLUDES	:=	include
